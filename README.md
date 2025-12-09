@@ -2,6 +2,9 @@
 
 A high-performance spam email detection system using Machine Learning, featuring LightGBM classifier with TF-IDF vectorization. The system achieves 98.88% accuracy on a combined dataset of over 86,000 emails from multiple sources.
 
+https://github.com/user-attachments/assets/c974bd54-2d66-4a1f-b31c-701d1395ad0d
+
+
 ## Table of Contents
 
 - [Overview](#overview)
